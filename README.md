@@ -12,10 +12,10 @@ O desenvolvimento do projeto PALESTRANDO se baseou nas seguintes tecnologias:
 - **TailWindCSS:** Para estilização e responsividade moderna.
 - **JavaScript** Para implementar a interação dinâmica com o usuário e gerenciamento das entradas de viagens.
 
-- **Utilizando o projeto**
+**Utilizando o projeto**
 
-  1- Após clonar o repositório, rodar npm install para instalar todas as dependências listadas no arquivo package.json, recriando a pasta node_modules/
-  2- Tailwind CSS, seguir instalação descrita na documentação https://tailwindcss.com/docs/installation.
+-1 Após clonar o repositório, rodar npm install para instalar todas as dependências listadas no arquivo package.json, recriando a pasta node_modules/
+-2 Tailwind CSS, seguir instalação descrita na documentação https://tailwindcss.com/docs/installation.
 
 **Conclusão**
 
