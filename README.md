@@ -17,7 +17,7 @@ O desenvolvimento do projeto PALESTRANDO se baseou nas seguintes tecnologias:
   1- Após clonar o repositório, rodar npm install para instalar todas as dependências listadas no arquivo package.json, recriando a pasta node_modules/
   2- Tailwind CSS, seguir instalação descrita na documentação https://tailwindcss.com/docs/installation.
 
-  **Conclusão**
+**Conclusão**
 
 O projeto "Diário de Viagem" proporcionou uma experiência de aprendizado prática, fortalecendo habilidades essenciais em desenvolvimento web, estilização com Tailwind CSS, e práticas de programação em JavaScript. A conclusão do projeto representa um passo importante no desenvolvimento de habilidades técnicas e soft skills, como organização e atenção aos detalhes.
 
