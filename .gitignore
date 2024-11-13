@@ -1,0 +1,9 @@
+#Node
+node_modules/
+package-lock.json
+
+#TailWindCSS
+tailwind.config.js
+
+#TailWindCSS
+output.css

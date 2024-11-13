@@ -1,0 +1,19 @@
+{
+  "name": "registro-de-viagem",
+  "version": "1.0.0",
+  "description": "Projeto de um registro de viagem",
+  "main": "server.js",
+  "scripts": {
+    "inicio": "node api/server.js",
+    "contrucao-css": "npx tailwindcss -i ./src/input.css -o ./src/output.css --watch"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.14"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "sqlite3": "^5.1.7"
+  }
+}
