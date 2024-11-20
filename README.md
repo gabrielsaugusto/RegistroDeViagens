@@ -6,7 +6,7 @@ O projeto "Diário de Viagem" consiste no desenvolvimento de uma página Web par
 
 **Tecnologias Utilizadas**
 
-O desenvolvimento do projeto PALESTRANDO se baseou nas seguintes tecnologias:
+O desenvolvimento do projeto Registro de Viagens se baseou nas seguintes tecnologias:
 
 - **HTML:** Para estruturar a página e layout do projeto.
 - **TailWindCSS:** Para estilização e responsividade moderna.
